@@ -1,0 +1,20 @@
+{
+    "mysql" : {
+        "host" : "localhost",
+        "port" : 3306,
+        "username" : "omar0705",
+        "password" : "sqlmanifolds",
+        "db" : "schems"
+    },
+    "cookie" : {
+        "name" : "session",
+        "expiry_days" : 30
+    },
+    "users" : {
+        "salt_length" : 16
+    },
+    "server" : {
+        "host" : "schems.openredstone.org",
+        "protocol" : "http"
+    }
+}
